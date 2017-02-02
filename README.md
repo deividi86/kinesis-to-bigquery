@@ -10,5 +10,5 @@ An AWS lambda function to send data from Kinesis to Google BigQuery
 * Set your Google project id, dataset and tablename
 * Zip folder content
 * Upload to AWS Lambda, set the python filename as lambda handler
-* Set GOOGLE_APPLICATION_CREDENTIALS as environment variable key and your the credentials json file name as value on AWS Lambda management
+* Set GOOGLE_APPLICATION_CREDENTIALS as environment variable key and your credentials json file name as value on AWS Lambda management
 
